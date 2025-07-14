@@ -18,4 +18,5 @@ Features:
 - Command Line Interface (CLI)
 
    Compile:  javac HotelManagement.java
+  
     Run  : java HotelManagement
